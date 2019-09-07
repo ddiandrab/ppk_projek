@@ -1,0 +1,97 @@
+D:\PPK\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.exe.config
+D:\PPK\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.exe
+D:\PPK\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.pdb
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.csprojResolveAssemblyReference.cache
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form1.resources
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form2.resources
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Properties.Resources.resources
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.csproj.GenerateResource.Cache
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.csproj.CoreCompileInputs.cache
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.exe
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.pdb
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form3.resources
+D:\PPK\ProjekPPK\ProjekPPK\bin\Debug\MySql.Data.dll
+D:\PPK\ProjekPPK\ProjekPPK\bin\Debug\MySql.Data.xml
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form4.resources
+D:\PPK\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form5.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\bin\Debug\ProjekPPK.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form3.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form4.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form5.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form6.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form8.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form7.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form10.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ProjekPPK\ProjekPPK\obj\Debug\ProjekPPK.Form9.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe.config
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.pdb
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Login.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form10.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Register.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Home.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_MyProfil.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPA.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPS.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_BHS.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form8.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form9.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.GenerateResource.Cache
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.exe
+C:\Users\ASUS\source\repos\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.pdb
+D:\pptASD\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe.config
+D:\pptASD\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe
+D:\pptASD\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.dll
+D:\pptASD\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.xml
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csprojResolveAssemblyReference.cache
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Login.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form10.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Register.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Home.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_MyProfil.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPA.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPS.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_BHS.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form8.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_AlbumKenangan.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Properties.Resources.resources
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.GenerateResource.Cache
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.CoreCompileInputs.cache
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.exe
+D:\pptASD\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.pdb
+D:\pptASD\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.pdb
+D:\PPK\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe.config
+D:\PPK\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.exe
+D:\PPK\ProjeckPPk\ProjekPPK\bin\Debug\ProjekPPK.pdb
+D:\PPK\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.dll
+D:\PPK\ProjeckPPk\ProjekPPK\bin\Debug\MySql.Data.xml
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csprojResolveAssemblyReference.cache
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Login.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form10.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Register.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_Home.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_MyProfil.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPA.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_IPS.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_BHS.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form8.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Form_AlbumKenangan.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.Properties.Resources.resources
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.GenerateResource.Cache
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.csproj.CoreCompileInputs.cache
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.exe
+D:\PPK\ProjeckPPk\ProjekPPK\obj\Debug\ProjekPPK.pdb
